@@ -15,9 +15,9 @@ GOALS:
 
 -
 # HOW TO RUN THE PROJECT?
-Open the terminal
-type "cd "your workspace"/src/
-type "git clone https://github.com/NikitaSevostyanov/Manipulator"
-type "cd .."
-type "catkin_make"
-type "roslaunch manipulator_gazebo display.launch"
+1. Open the terminal
+2. type "cd "your workspace"/src/
+3. type "git clone https://github.com/NikitaSevostyanov/Manipulator"
+4. type "cd .."
+5. type "catkin_make"
+6. type "roslaunch manipulator_gazebo display.launch"
