@@ -11,7 +11,7 @@ In this project i model the Toshiba Manipilator with end-effector, wishing to co
 # HOW TO RUN THE PROJECT?
 1. Open the terminal
 2. type "cd "your workspace"/src/
-3. type "git clone https://github.com/Terminateit/Atlas-Unplagged"
+3. type "git clone https://github.com/NikitaSevostyanov/Manipulator"
 4. type "cd .."
 5. type "catkin_make"
-6. type "roslaunch atlas_gazebo begin.launch"
+6. type "roslaunch manipulator_gazebo display.launch"
