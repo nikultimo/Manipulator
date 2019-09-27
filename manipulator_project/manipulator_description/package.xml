@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package>
+	<name>manipulator_description</name>
+	<version>0.0.1</version>
+	<description>The Manipulator description package</description>
+	<maintainer email="nikitadev@todo.todo">nikitadev</maintainer>
+	<license>MIT</license>
+	<buildtool_depend>catkin</buildtool_depend>
+</package>

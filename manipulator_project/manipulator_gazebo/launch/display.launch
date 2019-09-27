@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<launch>
+
+	<include file="$(find gazebo_ros)/launch/empty_world.launch">
+	</include>
+
+	<param name="manipulator_description" textfile="$(find manipulator_description)/urdf/box_robots.urdf"/>
+	
+	 <node name="spawn_robot" pkg="gazebo_ros" type="spawn_model"
+		args="-urdf -model manipulator -param manipulator_description -z 1">
+	</node>
+
+	<!-- <node name="rviz" pkg="rviz" type="rviz"/> -->
+
+</launch>
+
