@@ -9,9 +9,9 @@ In this project i model the Toshiba Manipilator with end-effector, wishing to co
 -
 GOALS:
 -
--Introduce to ROS, Gazebom, Rviz, urdf, xacro editing
--Improving skills of modelling robots
--Introducing to manipulators
+1. Introduce to ROS, Gazebom, Rviz, urdf, xacro editing
+2. Improving skills of modelling robots
+3. Introducing to manipulators
 
 -
 # HOW TO RUN THE PROJECT?
